@@ -1,4 +1,6 @@
-### Hi there 👋
+# Adrian Fagarasanu
+## Software Engineering
+![image_of_adrian](https://adrianfagarasanu.me/wp-content/uploads/2020/08/header1.jpg)
 
 <!--
 **AdrianGeorgeFagarasanu/AdrianGeorgeFagarasanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
