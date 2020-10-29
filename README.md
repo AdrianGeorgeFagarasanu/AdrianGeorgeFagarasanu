@@ -1,5 +1,5 @@
 ![image_of_adrian](https://adrianfagarasanu.me/wp-content/uploads/2020/10/header.png)
-### Hello, welcome to my personal github ![image_rocket](https://github.com/AdrianGeorgeFagarasanu/AdrianGeorgeFagarasanu/animat-checkmark-color.gif)
+### Hello, welcome to my personal github ![image_rocket](animat-checkmark-color.gif)
 
 <!--
 **AdrianGeorgeFagarasanu/AdrianGeorgeFagarasanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
