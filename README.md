@@ -1,4 +1,4 @@
-![image_of_adrian](https://adrianfagarasanu.me/wp-content/uploads/2020/10/header.png )
+![image_of_adrian](header.png)
 ## <img src="animat-rocket-color.gif" width="100"> *Hello, welcome to my personal github page!* 
 
 <!--
