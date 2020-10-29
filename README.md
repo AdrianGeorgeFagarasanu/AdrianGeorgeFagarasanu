@@ -1,4 +1,4 @@
-![image_of_adrian](header.png)
+![image_of_adrian](header.jpg)
 ## <img src="animat-rocket-color.gif" width="100"> *Hello, welcome to my personal github page!* 
 
 <!--
