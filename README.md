@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Engine-Unreal_Engine_4-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Engine-Unity_3D-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Art-Blender_3D-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Art-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
