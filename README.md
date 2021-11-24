@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vs_code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Engine-UE4-informational?style=flat&logo=ue4&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Engine-UE4-informational?style=flat&logo=unreal&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Engine-Unity3D-informational?style=flat&logo=unity3d&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
