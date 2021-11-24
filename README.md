@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 </a> 
 
 <a href="https://github.com/AdrianGeorgeFagarasanu/event-horizon">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianGeorgeFagarasanu&repo=event-horizon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="395" height="100"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianGeorgeFagarasanu&repo=event-horizon&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="395" height="150"/>
 </a>
 
