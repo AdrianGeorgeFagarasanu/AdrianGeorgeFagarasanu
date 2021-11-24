@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Art-Adobe_XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Art-Adobe_After_Effect-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Art-Adobe_Lightroom-informational?style=flat&logo=adobelightroom&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Art-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 
