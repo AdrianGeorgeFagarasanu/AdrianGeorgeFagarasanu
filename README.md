@@ -51,8 +51,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianGeorgeFagarasanu&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Adrian's GitHub Stats" />
 </a>
 
-<a href="https://github.com/prodETT/prodETT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prodETT&repo=prodETT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/ProdET/ProdET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ProdET&repo=ProdET&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 <a href="https://github.com/AdrianGeorgeFagarasanu/event-horizon">
