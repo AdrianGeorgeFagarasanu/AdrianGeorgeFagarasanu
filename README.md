@@ -16,32 +16,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQL_Server-informational?style=flat&logo=microsoftsqlserver&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-Visual_Studio-informational?style=flat&logo=visualstudio&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Engine-Unreal_Engine_4-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Engine-Unity_3D-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Art-Blender_3D-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Art-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Art-Adobe_XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Engine-Unreal_Engine_4-informational?style=flat&logo=unrealengine&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Engine-Unity_3D-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Art-Blender_3D-informational?style=flat&logo=blender&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Art-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Art-Adobe_XD-informational?style=flat&logo=adobexd&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Art-Adobe_After_Effect-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Art-Adobe_Lightroom-informational?style=flat&logo=adobelightroom&logoColor=white&color=2bbc8a) -->
 
