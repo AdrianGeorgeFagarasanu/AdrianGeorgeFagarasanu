@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Art-Adobe_After_Effect-informational?style=flat&logo=adobeaftereffects&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/Art-Adobe_Lightroom-informational?style=flat&logo=adobelightroom&logoColor=white&color=2bbc8a) -->
 
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/AdrianGeorgeFagarasanu/AdrianGeorgeFagarasanu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianGeorgeFagarasanu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
